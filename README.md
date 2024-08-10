@@ -30,39 +30,38 @@ A nivel técnico, este sistema marca una nueva etapa de aprendizaje, ya que ha s
 
 # Visualización del proyecto
 
-![image](https://github.com/user-attachments/assets/045f090f-0148-4d49-bbae-2f7856ec2942)
-<img alt="imagen" width="800"/>
+![image](https://github.com/user-attachments/assets/bbe5bb91-2fd7-43fd-8bcf-e5864b38d884)
 
-![image](https://github.com/user-attachments/assets/4b1e2764-2d27-410d-8b6a-d532922c2df9)
+![image](https://github.com/user-attachments/assets/82f5065c-0c80-4532-b754-4dac16dfc546)
 
-![image](https://github.com/user-attachments/assets/288c89f1-3c34-4b4a-9a63-86f329bc5952)
+![image](https://github.com/user-attachments/assets/356fcd7e-9f54-4104-8cee-17f6680daa51)
 
-![image](https://github.com/user-attachments/assets/51daa3d2-d593-40e3-93b8-f83001315312)
+![image](https://github.com/user-attachments/assets/ef6777cf-dc7c-4ea6-b9e6-4a1dfbf9eb91)
 
-![image](https://github.com/user-attachments/assets/543563dd-a6eb-454a-9fe2-c3616797978a)
+![image](https://github.com/user-attachments/assets/797e0459-ed97-483c-b4b0-5037f01e8e06)
 
-![image](https://github.com/user-attachments/assets/7aa3a758-fc1d-4f4d-8009-2209f1357f60)
+![image](https://github.com/user-attachments/assets/9eb0c92a-980a-4aa6-ae40-71ac7f437050)
 
-![image](https://github.com/user-attachments/assets/e2b57215-eff4-4ef2-8421-4c55093780e6)
+![image](https://github.com/user-attachments/assets/d7160ee9-8865-4722-8cc4-6397b1532328)
 
-![image](https://github.com/user-attachments/assets/182db8e3-77db-4816-9783-7dbb680d1459)
+![image](https://github.com/user-attachments/assets/7a9353cf-5583-4d2c-9a4b-41a731fbef26)
 
-![image](https://github.com/user-attachments/assets/cf36868c-e281-4051-ad0d-82963bb39fa5)
+![image](https://github.com/user-attachments/assets/a7bc609c-2a9c-4a72-baa0-7f7532e0ef2f)
 
-![image](https://github.com/user-attachments/assets/677ebbd6-aa4a-4ef8-bbaa-9902e22520eb)
+![image](https://github.com/user-attachments/assets/8ca5ac69-859e-42cd-943f-4267102b44e4)
 
-![image](https://github.com/user-attachments/assets/320f4127-df42-4d2f-ad5f-e8ef4b00a7f8)
+![image](https://github.com/user-attachments/assets/4ee10afc-a97a-4268-b142-77991e7aef51)
 
-![image](https://github.com/user-attachments/assets/3b5f7e00-8c87-4d7b-88e0-e437c719b420)
-
+![image](https://github.com/user-attachments/assets/ad21548e-515f-41cc-9d53-e72fc61effb0)
 
 Vista para usuario administrador
 
-![image](https://github.com/user-attachments/assets/29dfefd1-d634-4db5-93a6-dd6511f2403e)
+![image](https://github.com/user-attachments/assets/fc71f59c-5122-4dd0-9a6b-66ad3cac93fd)
 
 Vista para usuario promedio
 
-![image](https://github.com/user-attachments/assets/f6be89d9-0432-49d8-9b6e-3affff06e4a4)
+![image](https://github.com/user-attachments/assets/f545b443-3027-43de-ac49-d1590e6eea5f)
+
 
 # Instrucciones para su instalacion
 
