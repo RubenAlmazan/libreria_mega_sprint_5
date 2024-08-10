@@ -80,6 +80,7 @@ Vista para usuario promedio
 ¡Listo! El proyecto está disponible.
 
 Para enlazar la base de datos al sistema:
+
 --> Importe los datos de la carpeta “base_datos” en una base de datos en SQL Server.
 
 --> Una vez importados, en Visual Basic 6, diríjase a la sección de módulos y en la siguiente línea, ingrese sus credenciales para que el sistema se conecte con la base de datos:
@@ -103,7 +104,7 @@ Y por otro lado, la implementación de Visual Basic 6 para crear este sistema fu
 
 # Diagrama Entidad Relación
 
-![image](https://github.com/user-attachments/assets/96bfb4c5-eadf-49e4-a570-fb2f4c83c704)
+![image](https://github.com/user-attachments/assets/65ee0091-9599-465d-848d-9ae47c763d02)
 
 # Problemas conocidos
 
