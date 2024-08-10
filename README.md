@@ -10,50 +10,78 @@ A nivel técnico, este sistema marca una nueva etapa de aprendizaje, ya que ha s
 # Objetivos
 
 --> Crear una base de datos utilizando SQL Server.
+
 --> Implementar una interfaz gráfica funcional en Windows mediante formularios en Visual Basic 6.
+
 --> Utilizar botones para la ejecución de funciones específicas.
+
 --> Enlazar la base de datos con el sistema utilizando módulos.
+
 --> Guardar los datos generados en la base de datos de SQL Server.
+
 --> Crear perfiles de usuario para que cada persona pueda personalizar su experiencia dentro del sistema.
+
 
 # Requerimientos técnicos
 
 --> Visual Basic 6
+
 --> SQL Server Management Studio 20
 
 # Visualización del proyecto
 
 ![image](https://github.com/user-attachments/assets/045f090f-0148-4d49-bbae-2f7856ec2942)
+
 ![image](https://github.com/user-attachments/assets/4b1e2764-2d27-410d-8b6a-d532922c2df9)
+
 ![image](https://github.com/user-attachments/assets/288c89f1-3c34-4b4a-9a63-86f329bc5952)
+
 ![image](https://github.com/user-attachments/assets/51daa3d2-d593-40e3-93b8-f83001315312)
+
 ![image](https://github.com/user-attachments/assets/543563dd-a6eb-454a-9fe2-c3616797978a)
+
 ![image](https://github.com/user-attachments/assets/7aa3a758-fc1d-4f4d-8009-2209f1357f60)
+
 ![image](https://github.com/user-attachments/assets/e2b57215-eff4-4ef2-8421-4c55093780e6)
+
 ![image](https://github.com/user-attachments/assets/182db8e3-77db-4816-9783-7dbb680d1459)
+
 ![image](https://github.com/user-attachments/assets/cf36868c-e281-4051-ad0d-82963bb39fa5)
+
 ![image](https://github.com/user-attachments/assets/677ebbd6-aa4a-4ef8-bbaa-9902e22520eb)
+
 ![image](https://github.com/user-attachments/assets/320f4127-df42-4d2f-ad5f-e8ef4b00a7f8)
+
 ![image](https://github.com/user-attachments/assets/3b5f7e00-8c87-4d7b-88e0-e437c719b420)
 
+
 Vista para usuario administrador
+
 ![image](https://github.com/user-attachments/assets/29dfefd1-d634-4db5-93a6-dd6511f2403e)
 
 Vista para usuario promedio
+
 ![image](https://github.com/user-attachments/assets/f6be89d9-0432-49d8-9b6e-3affff06e4a4)
 
 # Instrucciones para su instalacion
 
 --> Descargar el proyecto.
+
 --> Descomprimir la carpeta en la ubicación deseada.
+
 --> Descargar e instalar Visual Basic 6.
+
 --> Acceder a Visual Basic 6.
+
 --> Seleccionar la opción de "Archivo" y luego, seleccionar "Abrir archivo".
+
 --> En la ubicación donde se descargó la carpeta, abrir el archivo “programa_libreria_mega.vbp”.
+
 ¡Listo! El proyecto está disponible.
 
 Para enlazar la base de datos al sistema:
 --> Importe los datos de la carpeta “base_datos” en una base de datos en SQL Server.
+
 --> Una vez importados, en Visual Basic 6, diríjase a la sección de módulos y en la siguiente línea, ingrese sus credenciales para que el sistema se conecte con la base de datos:
 
 Con.Open "Driver={SQL Server}; 
@@ -80,6 +108,7 @@ Y por otro lado, la implementación de Visual Basic 6 para crear este sistema fu
 # Problemas conocidos
 
 --> Entender la lógica de las diferentes funciones dentro de Visual Basic 6
+
 --> Crear la conexión a la base de datos para acceder a los registros disponibles
 
 # Retrospectiva
