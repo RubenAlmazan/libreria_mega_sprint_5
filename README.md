@@ -31,6 +31,7 @@ A nivel técnico, este sistema marca una nueva etapa de aprendizaje, ya que ha s
 # Visualización del proyecto
 
 ![image](https://github.com/user-attachments/assets/045f090f-0148-4d49-bbae-2f7856ec2942)
+<img alt="imagen" width="800"/>
 
 ![image](https://github.com/user-attachments/assets/4b1e2764-2d27-410d-8b6a-d532922c2df9)
 
